@@ -1,6 +1,6 @@
 /**
  * @file        BunnyHopMain.java
- * @author      Jane Quinn (20061667)
+ * @author      Jane Quinn
  * @assignment  Bunny Hop
  * @brief       Main Game Fiile
  */
